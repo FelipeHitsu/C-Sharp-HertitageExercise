@@ -1,0 +1,13 @@
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExercise\HeritageExercise\bin\Debug\netcoreapp3.1\HeritageExercise.exe
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExercise\HeritageExercise\bin\Debug\netcoreapp3.1\HeritageExercise.deps.json
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExercise\HeritageExercise\bin\Debug\netcoreapp3.1\HeritageExercise.runtimeconfig.json
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExercise\HeritageExercise\bin\Debug\netcoreapp3.1\HeritageExercise.runtimeconfig.dev.json
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExercise\HeritageExercise\bin\Debug\netcoreapp3.1\HeritageExercise.dll
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExercise\HeritageExercise\bin\Debug\netcoreapp3.1\HeritageExercise.pdb
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExercise\HeritageExercise\obj\Debug\netcoreapp3.1\HeritageExercise.csprojAssemblyReference.cache
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExercise\HeritageExercise\obj\Debug\netcoreapp3.1\HeritageExercise.AssemblyInfoInputs.cache
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExercise\HeritageExercise\obj\Debug\netcoreapp3.1\HeritageExercise.AssemblyInfo.cs
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExercise\HeritageExercise\obj\Debug\netcoreapp3.1\HeritageExercise.csproj.CoreCompileInputs.cache
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExercise\HeritageExercise\obj\Debug\netcoreapp3.1\HeritageExercise.dll
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExercise\HeritageExercise\obj\Debug\netcoreapp3.1\HeritageExercise.pdb
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExercise\HeritageExercise\obj\Debug\netcoreapp3.1\HeritageExercise.genruntimeconfig.cache
