@@ -42,6 +42,9 @@ namespace HeritageExercise
                 }
             }
 
+            Console.WriteLine();
+            Console.WriteLine("PRICE TAGS:");
+
             foreach(Product p in Products)
             {
                 Console.WriteLine(p.PriceTag());
